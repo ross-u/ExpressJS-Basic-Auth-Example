@@ -1472,6 +1472,6 @@ Cookies are sent by the browser in every request as long as the URL requested is
 
 ## Diagram
 
-![](/)
+![](https://github.com/ross-u/ExpressJS-Basic-Auth-Example/blob/master/BE%20API%202.jpg)
 
 
